@@ -1,5 +1,5 @@
 # Enhanced S-DES as RNG for stream cipher VLSI implementation
-
+**Please note that this project was completed as part of a Final Year Project (FYP) by a computer science student transitioning into the VLSI domain. This report is intended to serve as a supplementary reference rather than a comprehensive guide on the subject.**
 # Introduction 
 
 ## Folder Structure:
